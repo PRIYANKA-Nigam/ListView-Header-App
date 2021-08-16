@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ListView Header</string>
+    <string-array name="alphabets">
+        <item>a_50</item>
+        <item>b_50</item>
+        <item>c_100</item>
+        <item>d_150</item>
+        <item>e_200</item>
+        <item>f_10</item>
+        <item>g_100</item>
+        <item>h_190</item>
+        <item>i_100</item>
+        <item>j_10</item>
+        <item>k_10</item>
+        <item>l_20</item>
+        <item>m_70</item>
+        <item>n_90</item>
+        <item>o_180</item>
+        <item>p_190</item>
+        <item>q_170</item>
+        <item>r_106</item>
+        <item>s_105</item>
+        <item>t_100</item>
+        <item>u_300</item>
+        <item>v_140</item>
+        <item>w_509</item>
+        <item>x_150</item>
+        <item>y_101</item>
+        <item>z_106</item>
+    </string-array>
+</resources>
